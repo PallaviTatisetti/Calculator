@@ -1,0 +1,53 @@
+.cal
+{
+	display: block;
+	text-align: center;
+	margin: 50px 480px;
+	border-style: groove;
+	border-radius: 30px;
+	padding: 40px 10px;
+	background-color: #211c1a;
+
+}
+
+#display
+{
+	width: 300px;
+	height: 50px;
+	border-radius: 10px;
+	margin: 5px 5px;
+	font-size: 25px;
+	color:black;
+}
+button
+{
+	width: 50px;
+	height: 50px;
+	padding: 5px 5px;
+	border-radius: 20px;
+	margin: 5px 10px;
+	background-color: grey;
+	font-family: arial;
+	font-size: 25px;
+	cursor: pointer;
+}
+
+button:hover
+{
+	background-color: lightgrey;
+}
+
+.keys
+{
+	background-color: orangered;
+}
+
+.keys:hover
+{
+	background-color: #f88548 ;
+}
+
+form
+{
+	justify-content: center;
+}
